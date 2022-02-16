@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 31f1a021-778a-9176-b4cc-4fc057547248
 ---
@@ -200,7 +203,7 @@ Metabolic glycan labeling in cancer
 
 Neves, A. A., H. Stöckmann, et al. "[Imaging Cell Surface Glycosylation in Vivo using "Double Click" Chemistry](http://dx.doi.org/10.1021/bc300621n)." _Bioconjugate Chemistry_ 24, no. 6 (2013): 934–41.
 
-Furumoto, S., R. Shinbo, et al. "[_In Vitro_ and _in Vivo_ Characterization of 2-deoxy-2-18F-fluoro-D-mannose as a Tumor-imaging Agent for PET](http://dx.doi.org/10.2967/jnumed.112.113571 )." _Journal Nuclear  Medicine_ 54, no. 8 (2013): 1354–61.
+Furumoto, S., R. Shinbo, et al. "[_In Vitro_ and _in Vivo_ Characterization of 2-deoxy-2-{{< sub "18" >}}F-fluoro-D-mannose as a Tumor-imaging Agent for PET](http://dx.doi.org/10.2967/jnumed.112.113571 )." _Journal Nuclear  Medicine_ 54, no. 8 (2013): 1354–61.
 
 
 {{< tdclose >}}
