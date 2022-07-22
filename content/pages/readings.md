@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by weekly topic and includes
+  links to lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 31f1a021-778a-9176-b4cc-4fc057547248
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_1)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction
 
 Aberrant protein glycosylation in human disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_2)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Mir, A., N. Gao, et al. "[A Zebrafish Model of Congenital Disorders of Glycosyla
 
 Imaging glycan patterns in developing embryos
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_3)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Beahm, B. J., K. W. Dehnert, et al. "[A Visualizable Chain-terminating Inhibitor
 
 The role of protein glycosylation in bacterial motility
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_4)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Liu, F., A. J. Aubry, et al. "[The Engineering of Bacteria Bearing Azido-pseudam
 
 Engineering bacteria for glycoprotein production
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_5)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Valderrama-Rincon, J. D., A. C. Fisher, et al. "[An Engineered Eukaryotic Protei
 
 Chemical strategies for glycoprotein production
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_6)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Van Kasteren, Sander I, H. B. Kramer, et al. "[Expanding the Diversity of Chemic
 
 Development and application of glycan arrays
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_7)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Hung, T. -C., C.-W. Lin, et al. "[Investigation of SSEA-4 Binding Protein in Bre
 
 Metabolic glycan labeling in cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_8)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -200,7 +205,7 @@ Metabolic glycan labeling in cancer
 
 Neves, A. A., H. Stöckmann, et al. "[Imaging Cell Surface Glycosylation in Vivo using "Double Click" Chemistry](http://dx.doi.org/10.1021/bc300621n)." _Bioconjugate Chemistry_ 24, no. 6 (2013): 934–41.
 
-Furumoto, S., R. Shinbo, et al. "[_In Vitro_ and _in Vivo_ Characterization of 2-deoxy-2-18F-fluoro-D-mannose as a Tumor-imaging Agent for PET](http://dx.doi.org/10.2967/jnumed.112.113571 )." _Journal Nuclear  Medicine_ 54, no. 8 (2013): 1354–61.
+Furumoto, S., R. Shinbo, et al. "[_In Vitro_ and _in Vivo_ Characterization of 2-deoxy-2-{{< sub "18" >}}F-fluoro-D-mannose as a Tumor-imaging Agent for PET](http://dx.doi.org/10.2967/jnumed.112.113571 )." _Journal Nuclear  Medicine_ 54, no. 8 (2013): 1354–61.
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Furumoto, S., R. Shinbo, et al. "[_In Vitro_ and _in Vivo_ Characterization of 2
 
 Glycan-based synthetic vaccines
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_9)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ Lakshminarayanan, V., P. Thompson, et al. "[Immune Recognition of Tumor-associat
 
 A close look at influenza–host interactions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_10)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ Connaris, H., E. A. Govorkova, et al. "[Prevention of Influenza by Targeting Hos
 
 Synthetic antigens to generate HIV vaccines
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_11)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +292,7 @@ Doores, K. J., Z. Fulton, et al. "[A Nonself Sugar Mimic of the HIV Glycan Shiel
 
 The role of sugar metabolites in diabetes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_12)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
@@ -311,7 +316,7 @@ Wang, Z., K. Park, et al. "[Site-specific GlcNAcylation of Human Erythrocyte Pro
 
 Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_13)
+{{% resource_link c7e55fe8-e52e-2d6f-5923-45b349615430 "See the Lecture Summary" "#Week_13" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides summaries of the weekly course lectures along with
+  links to supporting materials.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: c7e55fe8-e52e-2d6f-5923-45b349615430
 ---
@@ -42,7 +47,7 @@ You can familiarize yourself with some basic aspects of glycobiology by watching
 
 Carolyn Bertozzi. "Chemical Glycobiology." iBiology. Accessed November 19, 2014. [https://www.ibiology.org/biochemistry/glycans/](https://www.ibiology.org/biochemistry/glycans/)
 
-TEDx. "Knowledge of glycobiology can improve your health: Geiske de Ruig at TEDxRoermond." April 3, 2013. TEDx. Accessed November 24, 2014. [http://tedxtalks.ted.com/video/Knowledge-of-glycobiology-can-i](http://tedxtalks.ted.com/video/Knowledge-of-glycobiology-can-i)
+TED{{< sup "x" >}}. "Knowledge of glycobiology can improve your health: Geiske de Ruig at TEDxRoermond." April 3, 2013. TED{{< sup "x" >}}. Accessed November 24, 2014. [http://tedxtalks.ted.com/video/Knowledge-of-glycobiology-can-i](http://tedxtalks.ted.com/video/Knowledge-of-glycobiology-can-i)
 
 
 {{< tdclose >}}
@@ -197,7 +202,7 @@ Metabolic glycan labeling in cancer
 
 ### Optional
 
-Watch a 40–min lecture on the use of 18F-radiolabeled glucose (FDG) to increase your understanding of the use of FDG in the clinic.
+Watch a 40–min lecture on the use of {{< sup "18" >}}F-radiolabeled glucose (FDG) to increase your understanding of the use of FDG in the clinic.
 
 Ken Rikard-Bell. "November 8, 2012: FDG PET - A new paradigm for therapy monitoring in Oncology." February 6, 2013. YouTube. Accessed November 19, 2014. [https://www.youtube.com/watch?v=Q6W-XI95Vmw](https://www.youtube.com/watch?v=Q6W-XI95Vmw)
 
@@ -215,7 +220,7 @@ Glycan-based synthetic vaccines
 {{< tdopen >}}
 
 
-{{< anchor "Week_9" >}}{{< /anchor >}}The glycans displayed by pathogens and the abnormal glycosylation patterns of cancer cells form the basis of this week's topic. Ever since it was discovered that non-human glycans from bacteria and viruses can trigger the immune system and cause disease, researchers have tried to use glycans as antigenic epitopes in vaccine development. From the first paper this week, by Broecker _et al_., we will learn about some important steps in the development of a vaccine against _Yersinia pestis_, the causative agent of the plague. Topics will include the optimization of glycan-antibody interactions and how to determine the specific epitope from a bacterial antigen. Using the paper by Lakshminarayanan _et al_., we will discuss the development of a glycan-based vaccine by combining three critical components: an adjuvant to stimulate the immune system, a peptide Thelper epitope to facilitate antigen presentation, and a glycosylated peptide as an antigen. Interestingly, the authors found that the components had to be chemically linked together to elicit an immune response. In this class, we will revisit glycan arrays and learn about surface plasmon resonance, nuclear magnetic resonance and mice immunization studies.
+{{< anchor "Week_9" >}}{{< /anchor >}}The glycans displayed by pathogens and the abnormal glycosylation patterns of cancer cells form the basis of this week's topic. Ever since it was discovered that non-human glycans from bacteria and viruses can trigger the immune system and cause disease, researchers have tried to use glycans as antigenic epitopes in vaccine development. From the first paper this week, by Broecker _et al_., we will learn about some important steps in the development of a vaccine against _Yersinia pestis_, the causative agent of the plague. Topics will include the optimization of glycan-antibody interactions and how to determine the specific epitope from a bacterial antigen. Using the paper by Lakshminarayanan _et al_., we will discuss the development of a glycan-based vaccine by combining three critical components: an adjuvant to stimulate the immune system, a peptide T{{< sub "helper" >}} epitope to facilitate antigen presentation, and a glycosylated peptide as an antigen. Interestingly, the authors found that the components had to be chemically linked together to elicit an immune response. In this class, we will revisit glycan arrays and learn about surface plasmon resonance, nuclear magnetic resonance and mice immunization studies.
 
 
 {{< tdclose >}}
